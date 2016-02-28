@@ -15,6 +15,7 @@
 ## Courses
 - [Real Time Web with Node.js](http://node.codeschool.com/) 
 - [Essential Node.js from DevelopMentor](http://www.globalknowledge.co.uk/courses/it-subjects/application-development/) 
+- [Server Side Development with NodeJS - Coursera](https://www.coursera.org/learn/server-side-development)
 
 ## Blogs
 - [The Node.js blog](http://blog.nodejs.org/) 
